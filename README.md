@@ -12,7 +12,8 @@
 
 **Visite também**
 
-[![Twitter Badge](https://img.shields.io/badge/-@NefastoCVMF-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/NefastoCVmf) [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCI2j8vfzRQKOVW6fiZuid9w)](https://www.youtube.com/channel/UCRhKK6VrISnIWPJjYxBPKnA/videos) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/eomagohh/)](https://www.instagram.com/eomagohh/) 
+[![Twitter Badge](https://img.shields.io/badge/-@NefastoCVMF-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/NefastoCVmf) [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCI2j8vfzRQKOVW6fiZuid9w)](https://www.youtube.com/channel/UCRhKK6VrISnIWPJjYxBPKnA/videos) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/eomagohh/)
+](https://www.instagram.com/eomagohh/) 
 <a href="https://discord.gg/7cr5mh5rjv"><img src="https://img.shields.io/discord/799477005627555890?color=7289da&logo=discord&logoColor=white" alt="Discord server" /></a>  <a href="https://discord.com/users/817160910871330836"><img src="https://img.shields.io/badge/-CY_%239082-4169E1?style=flat&labelColor=7289da&logo=discord&logoColor=white" alt="Minha Conta" /></a>
 #### ⚙️  **|**  Linguagens e Ferramentas:
 
