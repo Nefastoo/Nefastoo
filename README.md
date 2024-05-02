@@ -6,9 +6,9 @@
 
 #### 🌍"Onde dois não somam, um não subtrai"🧠
 
-- 🤖Sou Desenvolvedor de Bots para Discord.
-- 🌟Tenho experiência em Python.
-- 👦 Profissional em Bots discord em python
+- 🤖 Profissional Developer for Discord Bots.
+- 🌟 Quem não é visto não é lembrado.
+- 👦 Ethical Hacker.
 
 **Visite também**
 
